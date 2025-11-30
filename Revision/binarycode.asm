@@ -26,7 +26,7 @@ jr $ra
 
 .data
 
-num: .word 22
+num: .word 22tt
 
 
 .text

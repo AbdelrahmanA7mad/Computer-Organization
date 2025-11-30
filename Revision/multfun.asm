@@ -10,7 +10,7 @@ y: .word 5
 
 .text
 
-            multfun:
+ multfun:
             mul $v0 , $a0 ,$a1
             returnMult:
             jr $ra
